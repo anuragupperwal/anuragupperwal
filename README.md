@@ -1,7 +1,5 @@
 # Hi there, I'm Anurag Upperwal 👋
 
-![Profile views](https://github.com/anuragupperwal/anuragupperwal/blob/main/me.png)
-
 ## About Me
 
 I am a passionate AI enthusiast. I love exploring new technologies and applying them to solve real-world problems.
