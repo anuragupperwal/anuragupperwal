@@ -1,6 +1,6 @@
 # Hi there, I'm Anurag Upperwal 👋
 
-![Profile views](https://gpvc.arturio.dev/anuragupperwal)
+![Profile views](https://github.com/anuragupperwal/anuragupperwal/blob/main/me.png)
 
 ## About Me
 
