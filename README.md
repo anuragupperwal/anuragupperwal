@@ -4,17 +4,17 @@
 
 ## About Me
 
-I am a passionate software developer and AI enthusiast. I love exploring new technologies and applying them to solve real-world problems.
+I am a passionate AI enthusiast. I love exploring new technologies and applying them to solve real-world problems.
 
--   🌱 I’m currently learning **AI and Machine Learning**
--   💬 Ask me about **Python, Machine Learning, and Data Science**
--   📫 How to reach me: [Email](mailto:your.email@example.com)
+-   🌱 I’m currently learning **Graph Neural Networks**
+-   💬 Ask me about **C++, Python, Machine Learning and Trekking**
+-   📫 How to reach me: [Email](mailto:anuragupperwal@gmail.com)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuragupperwal)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/anuragupperwal)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anuragupperwal)
 
 ## Languages and Tools
 
@@ -34,5 +34,4 @@ I am a passionate software developer and AI enthusiast. I love exploring new tec
 
 ## Projects
 
--   [Project 1](https://github.com/anuragupperwal/cite_my_write)
-
+-   [Cite my Write](https://github.com/anuragupperwal/cite_my_write)
