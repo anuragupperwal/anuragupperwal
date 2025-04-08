@@ -6,8 +6,8 @@ I am a passionate Deep Learning enthusiast. I love exploring new technologies an
 
 -   🌱 I’m currently exploring **Graph-based Retrieval-Augmented Generation (Graph RAG)**
 -   🧠 Working at the intersection of **Graph Neural Networks** and **Large Language Models**
--   📊 Previously worked on **Time Series Data Analysis** using Machine Learning
--   🚀 Passionate about building intelligent systems that combine structure, context, and reasoning
+-   📊 Previously worked on **Time Series Data Analysis** using **Machine Learning** and a **custom autograd engine**
+-   🚀 Passionate about building intelligent systems.
 -   💬 Ask me about **C++, Python, Machine Learning, Deep Learning and Trekking**
 -   📫 How to reach me: [Email](mailto:anuragupperwal@gmail.com)
 
@@ -21,9 +21,15 @@ I am a passionate Deep Learning enthusiast. I love exploring new technologies an
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pytorch](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## GitHub Stats
 
@@ -35,7 +41,8 @@ I am a passionate Deep Learning enthusiast. I love exploring new technologies an
 
 ## Projects
 
--   [Knowledge Graph based RAG - Hindi language](https://github.com/anuragupperwal/GraphRAG_hi)
+-   [Knowledge Graph based RAG - Hindi language](https://github.com/anuragupperwal/GRAG_hi)
 -   [Cite my Write ( Paper Citation Network )](https://github.com/anuragupperwal/cite_my_write)
 -   [Custom Autograd Engine](https://github.com/anuragupperwal/Autograd-Engine)
 -   [Weisfeiler-Leman Graph colouring Algorithm](https://github.com/anuragupperwal/1_dimensional_weisfeiler_lehman_algorithm)
+-   [LLM Vault (LLM Model access authentication)](https://github.com/anuragupperwal/LLM_Vault)
