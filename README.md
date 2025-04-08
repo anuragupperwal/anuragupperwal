@@ -2,10 +2,13 @@
 
 ## About Me
 
-I am a passionate AI enthusiast. I love exploring new technologies and applying them to solve real-world problems.
+I am a passionate Deep Learning enthusiast. I love exploring new technologies and applying them to solve real-world problems.
 
--   🌱 I’m currently learning **Graph Neural Networks**
--   💬 Ask me about **C++, Python, Machine Learning and Trekking**
+-   🌱 I’m currently exploring **Graph-based Retrieval-Augmented Generation (Graph RAG)**
+-   🧠 Working at the intersection of **Graph Neural Networks** and **Large Language Models**
+-   📊 Previously worked on **Time Series Data Analysis** using Machine Learning
+-   🚀 Passionate about building intelligent systems that combine structure, context, and reasoning
+-   💬 Ask me about **C++, Python, Machine Learning, Deep Learning and Trekking**
 -   📫 How to reach me: [Email](mailto:anuragupperwal@gmail.com)
 
 ## Connect with Me
@@ -18,7 +21,7 @@ I am a passionate AI enthusiast. I love exploring new technologies and applying 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pytorch](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -32,4 +35,7 @@ I am a passionate AI enthusiast. I love exploring new technologies and applying 
 
 ## Projects
 
--   [Cite my Write](https://github.com/anuragupperwal/cite_my_write)
+-   [Knowledge Graph based RAG - Hindi language](https://github.com/anuragupperwal/GraphRAG_hi)
+-   [Cite my Write ( Paper Citation Network )](https://github.com/anuragupperwal/cite_my_write)
+-   [Custom Autograd Engine](https://github.com/anuragupperwal/Autograd-Engine)
+-   [Weisfeiler-Leman Graph colouring Algorithm](https://github.com/anuragupperwal/1_dimensional_weisfeiler_lehman_algorithm)
